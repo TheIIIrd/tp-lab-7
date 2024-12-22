@@ -1,5 +1,5 @@
-# tp-lab-7 [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
-A study of package management systems using Hunter as an example.
+# **tp-lab-7** [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
+A study of package management systems using Hunter as an example
 
 ## Tutorial
 
